@@ -1,10 +1,6 @@
 # CLoudflare-OSX-CLI-Tools
 List Of Most Have Command Line Interface For Super Hero To Make Life Easy.
 
-
-# Most Have OSX CLI Tools.
-List Of Most Have Command Line Interface For Geeks To Make Life Easy.
-
 ###############################################################################
 
 ======
